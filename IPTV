@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YL2qyDN/galaxy-premium.png" group-title="Vision-Plus", GALAXY PREMIUM
-https://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+https://d1abp075u76pbq.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd|Referer=https://www.visionplus.id
 
 #EXTINF:-1 tvg-id="TVN" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="INDO ",TVN
 https://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&userid=lite&chname=tvN_HD
