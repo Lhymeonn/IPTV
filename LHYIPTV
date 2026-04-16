@@ -7,13 +7,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-ANTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="Indonesia (IPTV)", ANTV (Alternative)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia (IPTV)", Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
@@ -305,13 +298,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://1000logos.net/wp-content/uploads/2025/07/Lifetime-Logo.png" group-title="Entertainment", Lifetime 
 https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mediampd/LifetimeHD.mpd
 
-#EXTINF:-1 tvg-id="Lifetime.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://1000logos.net/wp-content/uploads/2025/07/Lifetime-Logo.png" group-title="Entertainment", Lifetime (Alternative)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59de57168ce94a96bed1606f10c65f67:459fdec6262975e03adc82d62b749f44
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd
-
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -392,13 +378,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/sone/manifest.mpd
 #EXTINF:-1 group-title="Entertainment" tvg-id="KIX" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/KIX_HD.png/revision/latest?cb=20220216043203&path-prefix=vi", KIX
 https://cdn10jtedge.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
-#EXTINF:-1 group-title="Entertainment" tvg-id="KIX" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/KIX_HD.png/revision/latest?cb=20220216043203&path-prefix=vi", KIX (Alternative)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
-
 #EXTINF:-1 tvg-id="KPlus.sg" tvg-name="KPlus" tvg-logo="https://i.imgur.com/RbS0q71.png" group-title="Entertainment", K-PLUS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -419,11 +398,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mediampd/KBSWorldHD.mp
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/DASH/tv5monde/tv5monde-avc1_2500000=7-3277707030000000.mpd
-
-#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="TV5Monde" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/960px-Logo_TV5_Monde_-_2021.svg.png", TV5Monde (Alternative)
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h312/index.m3u8?app_type=web&userid=lite&chname=TV5MONDE_ASIE
 
 # Kids & Animation #
 
@@ -550,16 +524,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
 https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
-
-#EXTINF:-1 tvg-id=">Kompas TV" tvg-name="Kompas TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://object-streamo.emonaja.com/img/kompastv.png" group-title="News", Kompas TV (Alternative)
-#EXTVLCOPT:http-referrer=http://dens.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-
-
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" group-title="News" tvg-logo="https://object-streamo.emonaja.com/img/metrotv.png", Metro TV (Alternative)
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://edge-medcom.streamized.net/live-edge/smil:metro.smil/playlist.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
